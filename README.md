@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### requirements
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine.
+- [.NET Core SDK](https://dotnet.microsoft.com/download) should be installed on your machine.
 
 ### Installing
 
