@@ -1,7 +1,4 @@
 # Recipe-management
-#This is a simple console application for managing ingredients and recipe
-# Recipe Management Console Application
-
 This is a simple console application for managing recipes. Users can enter recipe details, view the recipe, scale the recipe, reset ingredient quantities, and clear all data.
 
 ## Getting Started
