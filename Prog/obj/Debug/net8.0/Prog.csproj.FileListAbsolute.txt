@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\bin\Debug\net8.0\Prog.exe
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\bin\Debug\net8.0\Prog.deps.json
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\bin\Debug\net8.0\Prog.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\bin\Debug\net8.0\Prog.dll
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\bin\Debug\net8.0\Prog.pdb
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.dll
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\refint\Prog.dll
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.pdb
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\Prog.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\Prog\Prog\obj\Debug\net8.0\ref\Prog.dll
