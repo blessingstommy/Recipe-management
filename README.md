@@ -5,7 +5,7 @@ This is a simple console application for managing recipes. Users can enter recip
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### requirements
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) installed on your machine.
 
